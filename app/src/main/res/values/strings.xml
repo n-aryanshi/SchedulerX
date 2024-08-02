@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Class Management System</string>
+    <string name="hello">Hey there,</string>
+    <string name="create_account">Create an Account</string>
+    <string name="firstName">First name</string>
+    <string name="lastName">Last name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show password</string>
+    <string name="terms_condition">By continuing you accept our Privacy Policy and Term of Use</string>
+    <string name="terms_condition_Header">Term of Use</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="or">or</string>
+    <string name="go_to_login">Already have an account? Login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="forgot_password">Forgot your password</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="menu">Menu</string>
+    <string name="navigation_header">App Drawer</string>
+    <string name="cms">CMS</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="meeting">Meeting</string>
+    <string name="about">About</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="search">Search</string>
+    <string name="schedule">Schedule</string>
+    <string name="timetable">TimeTable</string>
+    <string name="faculty">Faculty</string>
+    <string name="classroom">Classroom</string>
+    <string name="todaySchedule">Today\'s Schedule</string>
+    <string name="teacher_details">Teacher\'s Details</string>
+
+</resources>

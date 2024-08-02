@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378644316994",
+    "project_id": "class-management-system-43330",
+    "storage_bucket": "class-management-system-43330.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378644316994:android:72322189c89b67d226fedb",
+        "android_client_info": {
+          "package_name": "com.example.classmanagementsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnAj2vjgK32EcayxmEhZxuVdWSAVClGuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
