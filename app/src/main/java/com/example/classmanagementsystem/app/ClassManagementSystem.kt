@@ -17,6 +17,7 @@ import com.example.classmanagementsystem.screens.FacultiesScreen
 import com.example.classmanagementsystem.screens.ForgotPasswordScreen
 import com.example.classmanagementsystem.screens.Home
 import com.example.classmanagementsystem.screens.HomeScreen
+import com.example.classmanagementsystem.screens.HomeTimetable
 import com.example.classmanagementsystem.screens.LoginScreen
 import com.example.classmanagementsystem.screens.Meeting
 import com.example.classmanagementsystem.screens.Profile
@@ -102,6 +103,9 @@ fun ClassManagementSystem(
                 }
                 is Screen.TodayScheduleScreen->{
                     TodayScheduleScreen()
+                }
+                is Screen.HomeTimeTable->{
+                    HomeTimetable()
                 }
             }
             

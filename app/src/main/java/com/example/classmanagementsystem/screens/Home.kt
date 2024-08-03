@@ -415,22 +415,10 @@ fun Home() {
                                 start.linkTo(img.end)
                                 end.linkTo(parent.end)
                             }
+                            .clickable{
+                                AppRouter.navigateTo(Screen.HomeTimeTable)
+                            }
                     )
-
-//                    Text(
-//                        text = "Upgrade Your Account",
-//                        fontSize = 20.sp,
-//                        fontWeight = FontWeight.Bold,
-//                        color = Color.White,
-//                        modifier = Modifier
-//                            .padding(top = 16.dp)
-//                            .constrainAs(text2) {
-//                                top.linkTo(text1.bottom)
-//                                start.linkTo(text1.start)
-//                                end.linkTo(text1.end)
-//                                bottom.linkTo(parent.bottom)
-//                            }
-//                    )
                 }
             }
 

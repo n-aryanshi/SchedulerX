@@ -21,6 +21,7 @@ sealed class Screen{
     object TimetableScreen:Screen()
     object FacultiesScreen:Screen()
     object ClassroomScreen:Screen()
+    object HomeTimeTable:Screen()
 
 }
 object AppRouter{
