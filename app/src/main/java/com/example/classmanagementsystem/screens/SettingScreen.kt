@@ -154,6 +154,18 @@ fun SettingsScreen() {
                     fontWeight = FontWeight.Bold,
                 )
             }
+            Button(
+                onClick = {
+                    Toast.makeText(context, "Saving", Toast.LENGTH_SHORT).show()
+                },
+
+                ) {
+                Text(
+                    text="Undo Settings",
+                    fontSize = 20.sp,
+                    fontWeight = FontWeight.Bold,
+                )
+            }
         }
         SystemBackButtonHandler {
             AppRouter.navigateTo(Screen.HomeScreen)
