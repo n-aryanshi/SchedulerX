@@ -33,5 +33,6 @@
     <string name="classroom">Classroom</string>
     <string name="todaySchedule">Today\'s Schedule</string>
     <string name="teacher_details">Teacher\'s Details</string>
+    <string name="TimeTable">TimeTable</string>
 
 </resources>
