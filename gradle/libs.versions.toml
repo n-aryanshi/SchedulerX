@@ -12,6 +12,12 @@ constraintlayoutCompose = "1.0.1"
 lifecycleViewmodelCompose = "2.7.0"
 navigationCompose = "2.7.7"
 firebaseFirestoreKtx = "25.0.0"
+googleServices = "4.4.2"
+firebaseDatabase = "21.0.0"
+appcompat = "1.7.0"
+material = "1.12.0"
+activity = "1.8.0"
+constraintlayout = "2.2.0"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -32,6 +38,12 @@ androidx-constraintlayout-compose = { group = "androidx.constraintlayout", name 
 androidx-lifecycle-viewmodel-compose = { group = "androidx.lifecycle", name = "lifecycle-viewmodel-compose", version.ref = "lifecycleViewmodelCompose" }
 androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navigationCompose" }
 firebase-firestore-ktx = { group = "com.google.firebase", name = "firebase-firestore-ktx", version.ref = "firebaseFirestoreKtx" }
+google-services = { group = "com.google.gms", name = "google-services", version.ref = "googleServices" }
+firebase-database = { group = "com.google.firebase", name = "firebase-database", version.ref = "firebaseDatabase" }
+androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
 
 [plugins]
 androidApplication = { id = "com.android.application", version.ref = "agp" }

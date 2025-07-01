@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     android:background="@color/dark_blue">
 
-
     <ImageView
         android:id="@+id/imageView5"
         android:layout_width="301dp"
@@ -47,7 +46,7 @@
         android:layout_height="76dp"
         android:layout_marginTop="44dp"
         android:fontFamily="sans-serif-black"
-        android:text="Welcome to Class Clashing Manager"
+        android:text="Welcome to SchedulerX"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textColor="@color/black"
@@ -63,7 +62,7 @@
         android:layout_height="84dp"
         android:layout_marginTop="32dp"
         android:fontFamily="sans-serif"
-        android:text="A powerful tool designed to streamline class scheduling and availability tracking. Say goodbye to scheduling conflicts and Hello to seamless class management with our user-friendly app."
+        android:text="A powerful tool designed to streamline class scheduling and availability tracking...⏰"
         android:textAlignment="center"
         android:textSize="14sp"
         app:layout_constraintEnd_toEndOf="parent"

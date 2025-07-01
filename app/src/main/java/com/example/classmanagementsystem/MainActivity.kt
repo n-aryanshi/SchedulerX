@@ -5,7 +5,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import com.example.classmanagementsystem.app.ClassManagementSystem
-import com.example.classmanagementsystem.data.database.DataStoreManager
+import com.example.classmanagementsystem.utils.DataStoreManager
 import com.example.classmanagementsystem.ui.theme.ClassManagementSystemTheme
 
 class MainActivity : ComponentActivity() {
